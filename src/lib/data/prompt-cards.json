@@ -1,0 +1,28 @@
+{
+    "promptCards": [
+      {
+        "title": "Code Review",
+        "description": "Get expert feedback on your code",
+        "prompt": "Please review this code and suggest improvements...",
+        "iconName": "FileCode2"
+      },
+      {
+        "title": "Explain Concepts",
+        "description": "Understanding complex programming topics",
+        "prompt": "Can you explain how [concept] works?",
+        "iconName": "Brain"
+      },
+      {
+        "title": "Debug Help",
+        "description": "Find and fix issues in your code",
+        "prompt": "My code isn't working. Here's what I'm seeing...",
+        "iconName": "WandSparkles"
+      },
+      {
+        "title": "Best Practices",
+        "description": "Learn industry-standard approaches",
+        "prompt": "What are the best practices for [topic]?",
+        "iconName": "MessageSquare"
+      }
+    ]
+  }
